@@ -1,10 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
+  bg_image_webp : "images/backgrounds/landing-bg.webp"
   bg_image : "images/backgrounds/landing-bg.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "LSD Engineering"
-  content : "No es lo que tenemos, sino quien somos y cómo lo hacemos..."
+  content : "No es lo que tenemos, sino quien somos y cómo lo hacemos…"
   button:
     enable : true
     label : "Más información"
